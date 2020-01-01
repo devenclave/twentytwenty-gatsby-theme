@@ -1,0 +1,17 @@
+{
+    "name": "gatsby-theme-twentytwenty",
+    "version": "0.1.0",
+    "description": "The Gatsby Theme - ported from Twenty Twenty WordPress theme.",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+      "gatsby": "^2.1.23",
+      "react": "^16.8.3",
+      "react-dom": "^16.8.3"
+    },
+    "peerDependencies": {
+      "gatsby": "^2.1.23",
+      "react": "^16.8.3",
+      "react-dom": "^16.8.3"
+    }
+}
