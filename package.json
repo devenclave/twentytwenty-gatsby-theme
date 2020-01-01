@@ -1,0 +1,31 @@
+{
+  "name": "twentytwenty-gatsby-theme",
+  "version": "1.0.0",
+  "description": "A port of the Twenty Twenty WordPress Theme over to Gatsby",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "site",
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eonlabs/twentytwenty-gatsby-theme.git"
+  },
+  "keywords": [
+    "gatsby",
+    "wordpress",
+    "theme",
+    "gatsby-theme",
+    "twentytwenty"
+  ],
+  "author": "Eon Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eonlabs/twentytwenty-gatsby-theme/issues"
+  },
+  "homepage": "https://github.com/eonlabs/twentytwenty-gatsby-theme#readme"
+}
