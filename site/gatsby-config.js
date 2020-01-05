@@ -3,7 +3,7 @@ module.exports = {
         title: `Twenty Twenty Site`,
         description: `Gatsby site for Twenty Twenty Gatsby Theme.`,
         author: `@sagarnasit`,
-        wordPressUrl: `wordpress.com`
+        wordPressUrl: `yourwordpresssite.com` // Local or live WordPress url.
     },
     plugins: [
         {
